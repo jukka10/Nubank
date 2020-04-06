@@ -1,8 +1,5 @@
 <h1 align="center">
-<br>
-  <img src="./src/assets/nubank-logo-0.png" alt="OLX_CLONE" width="250">
-<br>
-<br>
+
 🔥 Nubank
 </h1>
 <p align="center">A project made in ReactJS reproducing the OLX interface</p>
@@ -11,9 +8,14 @@
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
 </a>
 </p>
-<div>
-  <img src="./src/assets/recorder.gif" alt="demo-mobile" height="425">
-</div>
+
+<div > 
+  <p align="center">
+    <img src="./src/assets/recorder.gif" alt="demo-mobile" height="400">
+    <img src="./src/assets/nubank-logo-0.png" alt="OLX_CLONE" width="500" height="400">
+    </p>
+    </div>
+
 
 <hr />
 
