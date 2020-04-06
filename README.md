@@ -1,5 +1,4 @@
 <h1 align="center">
-
 🔥 Nubank
 </h1>
 <p align="center">A project made in ReactJS reproducing the OLX interface</p>
@@ -11,8 +10,8 @@
 
 <div > 
   <p align="center">
-    <img src="./src/assets/recorder.gif" alt="demo-mobile" height="400">
-    <img src="./src/assets/nubank-logo-0.png" alt="OLX_CLONE" width="500" height="400">
+    <img src="./src/assets/recorder.gif" alt="demo-mobile" height="420" width="200">
+    <img src="./src/assets/nubank-logo-0.png" alt="OLX_CLONE" width="500" height="420">
     </p>
     </div>
 
