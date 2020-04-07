@@ -1,7 +1,7 @@
 <h1 align="center">
 🔥 Nubank
 </h1>
-<p align="center">A project made in ReactJS reproducing the OLX interface</p>
+<p align="center">A project made in React-Native reproducing the Nubank interface</p>
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
@@ -11,7 +11,7 @@
 <div > 
   <p align="center">
     <img src="./src/assets/recorder.gif" alt="demo-mobile" height="420" width="200">
-    <img src="./src/assets/nubank-logo-0.png" alt="OLX_CLONE" width="500" height="420">
+    <img src="./src/assets/nubank-logo-0.png" alt="Nu_CLONE" width="500" height="420">
     </p>
     </div>
 
